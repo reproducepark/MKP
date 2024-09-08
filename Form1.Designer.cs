@@ -77,7 +77,6 @@
             Controls.Add(button1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
-            MinimizeBox = false;
             Name = "Form1";
             ShowIcon = false;
             StartPosition = FormStartPosition.CenterScreen;
